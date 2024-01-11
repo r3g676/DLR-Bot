@@ -12,5 +12,5 @@
 # How to start:
   1. Download Node.js
   2. Make a Discord bot developer account
-  3. Use start.bat if you're on Windows or run this on other OSes:
-  `node index.js`
+  3. Insert key into `Botconfig.json`
+  4. Use start.bat if you're on Windows or run this on other OSes inside the folder: `node index.js`
